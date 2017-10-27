@@ -1,2 +1,2 @@
 # meritfoods
-This is an opencart project.
+This is an opencart project developed by Tricosys.
